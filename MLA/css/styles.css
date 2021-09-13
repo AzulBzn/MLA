@@ -1,0 +1,33 @@
+@charset "UTF-8";
+body {
+  background-color:#ebebeb ;
+}
+#Navegador {
+  background-color:#fff159 ;
+  font-family: Proxima Nova,-apple-system,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+}
+
+#Nav {
+  background-color: #fff;
+  font-family: Proxima Nova,-apple-system,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+}
+
+#Final {
+  background-color: white;
+}
+
+ 
+li{
+  display:inline-block;
+  width:10%;
+  padding:5px 10px;
+  text-align:center;
+}
+
+li img {
+float: left;
+}
+
+body {
+  font-family: Proxima Nova,-apple-system,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+}
